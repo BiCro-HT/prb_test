@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "prb-test"
+version = "0.1.0"
+description = ""
+authors = ["Zaf4 <zafermolbio@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+probe-design = "^0.1.5"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.28.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

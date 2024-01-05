@@ -1,0 +1,17 @@
+Experiment folder: /Users/zafer.kosar/dev2/prb_test/prb_test
+Oligo length: 
+Mismatches: 
+Threads: 
+Hash length: 
+Do you wish to continue? (y/n)y
+ln: /Users/zafer.kosar/dev2/prb_test/prb_test/data/ref/genome.fa: 
+    No such file or directory
+/Users/zafer.kosar/Library/Caches/pypoetry/virtualenvs/prb-test-orthS4nb-py3.11/lib/python3.11/site-packages/probe_design/shell/run_nHUSH.sh: line 142: 
+    nhush: command not found
+/Users/zafer.kosar/Library/Caches/pypoetry/virtualenvs/prb-test-orthS4nb-py3.11/lib/python3.11/site-packages/probe_design/shell/run_nHUSH.sh: line 142: 
+    nhush: command not found
+candidates/roi_1.GC35to85_Reference.fa
+candidates/roi_1.GC35to85_RevCompl.fa
+/Users/zafer.kosar/Library/Caches/pypoetry/virtualenvs/prb-test-orthS4nb-py3.11/lib/python3.11/site-packages/probe_design/shell/run_nHUSH.sh: line 149: 
+    rename: command not found
+Cleaning up...

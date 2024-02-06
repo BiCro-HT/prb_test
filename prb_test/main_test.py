@@ -41,9 +41,9 @@ for folder in folders:
 prb.get_oligos(nt_type='DNA',gcfilter=1,extfolder='./data') # Defaults
 
 ## 4. Test all k-mers for their homology to other regions in the genome, using nHUSH.
-subprocess.run(['bash',
-                os.path.join(PATHSHELL,'run_nHUSH.sh'),
-                '-d DNA -L 20 -l 21 -m 3 -t 40 -i 14 -g'])
+subprocess.run(['bash',                                     # command
+                os.path.join(PATHSHELL,'run_nHUSH.sh'),     # script
+                '-d DNA -L 20 -l 21 -m 3 -t 40 -i 14 -g'])  # arguments
 '''
 Instead of running the entire 
     k-mers (of length L) at once, 
